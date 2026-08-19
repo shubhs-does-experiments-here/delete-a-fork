@@ -1,5 +1,6 @@
 import { MessageVault } from "./vault";
 
+// added comment
 const vault = new MessageVault();
 
 vault.add("Git remembers more than you think.");
